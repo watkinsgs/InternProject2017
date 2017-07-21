@@ -1,0 +1,413 @@
+{
+"name": "ADZR58020170626144200",
+"login": "s0998jbt",
+"time": "thetime",
+"store": {
+  "store": 6901,
+  "company": "Lowes of Here",
+  "business_date": "20170626"
+},
+
+"summary": [
+    {
+    "unlType": "regularSales",
+    "total": 0.00,
+    "unlock": 0.00,
+    "unlockPercent": 0
+  },
+  {
+    "unlType": "sosSales",
+    "total": 0.00,
+    "unlock": 0.00,
+    "unlockPercent": 0
+  },
+   {
+    "unlType": "tinRegSales",
+    "total": 0.00,
+    "unlock": 0.00,
+    "unlockPercent": 0
+  },
+   {
+    "unlType": "tinSosSales",
+    "total": 0.00,
+    "unlock": 0.00,
+    "unlockPercent": 0
+  }
+
+],
+"unlock_categories": [{
+  "unlock_type": "Regular Unlock",
+  "records": [{
+    "salesid": 13,
+    "loginid": "s8999da1",
+    "name": {
+      "first": "wack Greg",
+      "last": "dumby Watkins"
+    },
+    "avgUnlkDiff": -0.50,
+    "unlocks": [{
+      "invoice": 12345,
+      "trans_type": "S",
+      "unlock_lgn": "GSW",
+      "unlock_exception": "(S*)",
+      "item": {
+        "qty": 1,
+        "type": "stock",
+        "description": "widget",
+        "barcode": 1122334455,
+        "default_price": 2.00,
+        "unlock_price": 1.50
+      },
+      "total_diff": 0.05,
+      "unlock_margin": ".01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+      },
+      {
+      "invoice": 11111,
+      "trans_type": "F",
+      "unlock_lgn": "JV",
+      "unlock_exception": "(B*)",
+      "item": {
+        "qty": 500,
+        "type": "non-stock",
+        "description": "falcon",
+        "barcode": 10100011101,
+        "default_price": 1222.00,
+        "unlock_price": 2221.50
+      },
+      "total_diff": 5.05,
+      "unlock_margin": "7.01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+    }]},
+    {
+      "salesid": 13,
+      "loginid": "s8999le1",
+      "name": {
+        "first": "Leif",
+        "last": "Erikson"
+      },
+      "avgUnlkDiff": -0.50,
+      "unlocks": [{
+        "invoice": 12345,
+        "trans_type": "S",
+        "unlock_lgn": "GSW",
+        "unlock_exception": "(S*)",
+        "item": {
+          "qty": 1,
+          "type": "stock",
+          "description": "widget straightener",
+          "barcode": 2122334455,
+          "default_price": 20.00,
+          "unlock_price": 1.50
+        },
+        "total_diff": 19.50,
+        "unlock_margin": ".01",
+        "price_change_reason": "felt like it",
+        "unlock_date": "06/27/2017"
+        },
+        {
+        "invoice": 11111,
+        "trans_type": "F",
+        "unlock_lgn": "JV",
+        "unlock_exception": "(B*)",
+        "item": {
+          "qty": 500,
+          "type": "non-stock",
+          "description": "falcon extractor",
+          "barcode": 10100011101,
+          "default_price": 1222.00,
+          "unlock_price": 2221.50
+        },
+        "total_diff": 5.05,
+        "unlock_margin": "7.01",
+        "price_change_reason": "admin",
+        "unlock_date": "06/27/2017"
+      }]
+  }]
+},
+{
+  "unlock_type": "Irregular Unlock",
+  "records": [{
+    "salesid": 13,
+    "loginid": "s8999da1",
+    "name": {
+      "first": "Francis",
+      "last": "Bacon"
+    },
+    "avgUnlkDiff": -0.50,
+    "unlocks": [{
+      "invoice": 12344,
+      "trans_type": "S",
+      "unlock_lgn": "GSW",
+      "unlock_exception": "(S*)",
+      "item": {
+        "qty": 1,
+        "type": "stock",
+        "description": "widget remover",
+        "barcode": 1122334453,
+        "default_price": 19.00,
+        "unlock_price": 10.50
+      },
+      "total_diff": 8.50,
+      "unlock_margin": ".01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+      },
+      {"invoice": 12345,
+      "trans_type": "S",
+      "unlock_lgn": "GSW",
+      "unlock_exception": "(S*)",
+      "item": {
+        "qty": 1,
+        "type": "stock",
+        "description": "widget",
+        "barcode": 1122334455,
+        "default_price": 2.00,
+        "unlock_price": 1.50
+      },
+      "total_diff": 0.05,
+      "unlock_margin": ".01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+      },
+      {
+      "invoice": 11111,
+      "trans_type": "F",
+      "unlock_lgn": "JV",
+      "unlock_exception": "(B*)",
+      "item": {
+        "qty": 500,
+        "type": "non-stock",
+        "description": "owl stretcher",
+        "barcode": 10100011101,
+        "default_price": 1222.00,
+        "unlock_price": 2221.50
+      },
+      "total_diff": 5.05,
+      "unlock_margin": "7.01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+    }]
+  },
+  {
+    "salesid": 13,
+    "loginid": "s8999da1",
+    "name": {
+      "first": "Greg",
+      "last": "Watkins"
+    },
+    "avgUnlkDiff": -0.50,
+    "unlocks": [{
+      "invoice": 12345,
+      "trans_type": "S",
+      "unlock_lgn": "GSW",
+      "unlock_exception": "(S*)",
+      "item": {
+        "qty": 1,
+        "type": "stock",
+        "description": "widget collider",
+        "barcode": 1122334455,
+        "default_price": 2.00,
+        "unlock_price": 1.50
+      },
+      "total_diff": 0.05,
+      "unlock_margin": ".01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+      },
+      {
+      "invoice": 11111,
+      "trans_type": "F",
+      "unlock_lgn": "JV",
+      "unlock_exception": "(B*)",
+      "item": {
+        "qty": 500,
+        "type": "non-stock",
+        "description": "falcon hinges",
+        "barcode": 10100011101,
+        "default_price": 1222.00,
+        "unlock_price": 2221.50
+      },
+      "total_diff": 5.05,
+      "unlock_margin": "7.01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+    }]},
+    {
+      "salesid": 13,
+      "loginid": "s8999jv1",
+      "name": {
+        "first": "Justin",
+        "last": "Vaughn"
+      },
+      "avgUnlkDiff": -0.50,
+      "unlocks": [{
+        "invoice": 12345,
+        "trans_type": "S",
+        "unlock_lgn": "GSW",
+        "unlock_exception": "(S*)",
+        "item": {
+          "qty": 1,
+          "type": "stock",
+          "description": "widget detector",
+          "barcode": 1122334455,
+          "default_price": 2.00,
+          "unlock_price": 1.50
+        },
+        "total_diff": 0.05,
+        "unlock_margin": ".01",
+        "price_change_reason": "admin",
+        "unlock_date": "06/27/2017"
+        },
+        {
+        "invoice": 11111,
+        "trans_type": "F",
+        "unlock_lgn": "JV",
+        "unlock_exception": "(B*)",
+        "item": {
+          "qty": 500,
+          "type": "non-stock",
+          "description": "falcon alarm",
+          "barcode": 10100011101,
+          "default_price": 1222.00,
+          "unlock_price": 2221.50
+        },
+        "total_diff": 5.05,
+        "unlock_margin": "7.01",
+        "price_change_reason": "admin",
+        "unlock_date": "06/27/2017"
+      }]}]
+},
+{
+  "unlock_type": "Pre Tax Package",
+  "records": [{
+    "salesid": 13,
+    "loginid": "s8999da1",
+    "name": {
+      "first": "Francis",
+      "last": "Bacon"
+    },
+    "avgUnlkDiff": -0.50,
+    "unlocks": [{
+      "invoice": 12344,
+      "trans_type": "S",
+      "unlock_lgn": "GSW",
+      "unlock_exception": "(S*)",
+      "item": {
+        "qty": 1,
+        "type": "stock",
+        "description": "widget remover",
+        "barcode": 1122334453,
+        "default_price": 19.00,
+        "unlock_price": 10.50
+      },
+      "total_diff": 8.50,
+      "unlock_margin": ".01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+      },
+      {"invoice": 12345,
+      "trans_type": "S",
+      "unlock_lgn": "GSW",
+      "unlock_exception": "(S*)",
+      "item": {
+        "qty": 1,
+        "type": "stock",
+        "description": "widget magnifier",
+        "barcode": 1122334455,
+        "default_price": 2.00,
+        "unlock_price": 1.50
+      },
+      "total_diff": 0.05,
+      "unlock_margin": ".01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+      },
+      {
+      "invoice": 11111,
+      "trans_type": "F",
+      "unlock_lgn": "JV",
+      "unlock_exception": "(B*)",
+      "item": {
+        "qty": 500,
+        "type": "non-stock",
+        "description": "falcon degausser",
+        "barcode": 10100011101,
+        "default_price": 1222.00,
+        "unlock_price": 2221.50
+      },
+      "total_diff": 5.05,
+      "unlock_margin": "7.01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+    }]
+  }]
+},
+{
+  "unlock_type": "Delivery Charge",
+  "records": [{
+    "salesid": 13,
+    "loginid": "s8999da1",
+    "name": {
+      "first": "Francis",
+      "last": "Bacon"
+    },
+    "avgUnlkDiff": -0.50,
+    "unlocks": [{
+      "invoice": 12344,
+      "trans_type": "S",
+      "unlock_lgn": "GSW",
+      "unlock_exception": "(S*)",
+      "item": {
+        "qty": 1,
+        "type": "stock",
+        "description": "widget sharpener",
+        "barcode": 1122334453,
+        "default_price": 19.00,
+        "unlock_price": 10.50
+      },
+      "total_diff": 8.50,
+      "unlock_margin": ".01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+      },
+      {"invoice": 12345,
+      "trans_type": "S",
+      "unlock_lgn": "GSW",
+      "unlock_exception": "(S*)",
+      "item": {
+        "qty": 1,
+        "type": "stock",
+        "description": "widget deterrent",
+        "barcode": 1122334455,
+        "default_price": 2.00,
+        "unlock_price": 1.50
+      },
+      "total_diff": 0.05,
+      "unlock_margin": ".01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+      },
+      {
+      "invoice": 11111,
+      "trans_type": "F",
+      "unlock_lgn": "JV",
+      "unlock_exception": "(B*)",
+      "item": {
+        "qty": 500,
+        "type": "non-stock",
+        "description": "falcon washer",
+        "barcode": 10100011101,
+        "default_price": 1222.00,
+        "unlock_price": 2221.50
+      },
+      "total_diff": 5.05,
+      "unlock_margin": "7.01",
+      "price_change_reason": "admin",
+      "unlock_date": "06/27/2017"
+    }]
+  }]
+}]
+}
